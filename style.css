@@ -4,6 +4,7 @@ body {
 }
 
 header {
+  text-align: center;
   border-style: dotted;
   border-width: 3px;
 }
